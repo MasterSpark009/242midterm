@@ -1,4 +1,7 @@
 ---
-title: "Midterm Project"
-output: html_document
+title: "MATH 242 Midterm Project - First Draft"
+author: "Qiao Liu, Shijun Hong"
+date: "Mar 14, 2022"
+output:
+  pdf_document: default
 ---
