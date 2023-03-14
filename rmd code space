@@ -5,3 +5,8 @@ date: "Mar 14, 2022"
 output:
   pdf_document: default
 ---
+
+```{r message=FALSE, echo=FALSE}
+library(tidyverse)
+condos <- read.csv("nyc-condos_s23.csv")
+```
