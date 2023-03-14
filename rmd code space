@@ -10,3 +10,4 @@ output:
 library(tidyverse)
 condos <- read.csv("nyc-condos_s23.csv")
 ```
+This is the midterm project.
